@@ -87,7 +87,7 @@
 								<link class="reference_subracialtrait" recordname="reference.racedata.aura.subraces.xaelafemale.traits.abilityscoreincrease">Ability Score Increase</link>
 								<link class="reference_subracialtrait" recordname="reference.racedata.aura.subraces.xaelafemale.traits.xaelaweapontraining">Xaela Weapon Training</link>
 								<link class="reference_subracialtrait" recordname="reference.racedata.aura.subraces.xaelafemale.traits.nomadicinstincts">Nomadic Instincts</link>
-								<link class="reference_subracialtrait" recordname="reference.racedata.aura.subraces.xaelafemale.traits.borntothesaddle">Born to the Saddle</link>
+								<link class="reference_subracialtrait" recordname="reference.racedata.aura.subraces.xaelafemale.traits.savageattacks">Savage Attacks</link>
 							</listlink>
 						</text>
 						<traits>
@@ -101,12 +101,12 @@
 							</xaelaweapontraining>
 							<nomadicinstincts>
 								<name type="string">Nomadic Instincts</name>
-								<text type="formattedtext"><p>Due to your tribal ancestory you gain proficiency in the Survival skill.</p></text>
+								<text type="formattedtext"><p>Due to your tribal ancestory you gain proficiency in the Survival skill and with land vehicles.</p></text>
 							</nomadicinstincts>
-							<borntothesaddle>
-								<name type="string">Born to the Saddle</name>
-								<text type="formattedtext"><p>Most Xaelan tribes keep horsemanship as an integral part of their nomadic lifestyles. You have advantage on saving throws made to avoid falling off your mount. If you fall off your mount and descend no more than 10 feet, you can land on your feet if you're not incapacitated. Finally, mounting or dismounting a creature costs you only 5 feet of movement, rather than half your speed.</p></text>
-							</borntothesaddle>
+							<savageattacks>
+								<name type="string">Savage Attacks</name>
+								<text type="formattedtext"><p>When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.</p></text>
+							</savageattacks>
 						</traits>
 					</xaelafemale>
 					<xaelamale>
@@ -118,7 +118,7 @@
 								<link class="reference_subracialtrait" recordname="reference.racedata.aura.subraces.xaelamale.traits.abilityscoreincrease">Ability Score Increase</link>
 								<link class="reference_subracialtrait" recordname="reference.racedata.aura.subraces.xaelamale.traits.xaelaweapontraining">Xaela Weapon Training</link>
 								<link class="reference_subracialtrait" recordname="reference.racedata.aura.subraces.xaelamale.traits.nomadicinstincts">Nomadic Instincts</link>
-								<link class="reference_subracialtrait" recordname="reference.racedata.aura.subraces.xaelamale.traits.borntothesaddle">Born to the Saddle</link>
+								<link class="reference_subracialtrait" recordname="reference.racedata.aura.subraces.xaelamale.traits.savageattacks">Savage Attacks</link>
 							</listlink>
 						</text>
 						<traits>
@@ -132,12 +132,12 @@
 							</xaelaweapontraining>
 							<nomadicinstincts>
 								<name type="string">Nomadic Instincts</name>
-								<text type="formattedtext"><p>Due to your tribal ancestory you gain proficiency in the Survival skill.</p></text>
+								<text type="formattedtext"><p>Due to your tribal ancestory you gain proficiency in the Survival skill and with land vehicles.</p></text>
 							</nomadicinstincts>
-							<borntothesaddle>
-								<name type="string">Born to the Saddle</name>
-								<text type="formattedtext"><p>Most Xaelan tribes keep horsemanship as an integral part of their nomadic lifestyles. You have advantage on saving throws made to avoid falling off your mount. If you fall off your mount and descend no more than 10 feet, you can land on your feet if you're not incapacitated. Finally, mounting or dismounting a creature costs you only 5 feet of movement, rather than half your speed.</p></text>
-							</borntothesaddle>
+							<savageattacks>
+								<name type="string">Savage Attacks</name>
+								<text type="formattedtext"><p>When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.</p></text>
+							</savageattacks>
 						</traits>
 					</xaelamale>
 					<raenfemale>
@@ -149,7 +149,7 @@
 								<link class="reference_subracialtrait" recordname="reference.racedata.aura.subraces.raenfemale.traits.abilityscoreincrease">Ability Score Increase</link>
 								<link class="reference_subracialtrait" recordname="reference.racedata.aura.subraces.raenfemale.traits.ancestralcrafts">Ancestral Crafts</link>
 								<link class="reference_subracialtrait" recordname="reference.racedata.aura.subraces.raenfemale.traits.naturallyinsightful">Naturally Insightful</link>
-								<link class="reference_subracialtrait" recordname="reference.racedata.aura.subraces.raenfemale.traits.indomitablespirit">Indomitable Spirit</link>
+								<link class="reference_subracialtrait" recordname="reference.racedata.aura.subraces.raenfemale.traits.unwaveringloyalty">Unwavering Loyalty</link>
 							</listlink>
 						</text>
 						<traits>
@@ -165,10 +165,10 @@
 								<name type="string">Naturally Insightful</name>
 								<text type="formattedtext"><p>You have proficiency in the Insight skill.</p></text>
 							</naturallyinsightful>
-							<indomitablespirit>
-								<name type="string">Indomitable Spirit</name>
-								<text type="formattedtext"><p>The legendary strength of will that Raen carry with them allows them to steel their resolve when it is tested. You have advantage on saving throws against being Frightened.</p></text>
-							</indomitablespirit>
+							<unwaveringloyalty>
+								<name type="string">Unwavering Loyalty</name>
+								<text type="formattedtext"><p>The legendary strength of will that Raen carry with them allows them to steel their resolve when it is tested. You have advantage on saving throws against being Charmed.</p></text>
+							</unwaveringloyalty>
 						</traits>
 					</raenfemale>
 					<raenmale>
@@ -180,7 +180,7 @@
 								<link class="reference_subracialtrait" recordname="reference.racedata.aura.subraces.raenmale.traits.abilityscoreincrease">Ability Score Increase</link>
 								<link class="reference_subracialtrait" recordname="reference.racedata.aura.subraces.raenmale.traits.ancestralcrafts">Ancestral Crafts</link>
 								<link class="reference_subracialtrait" recordname="reference.racedata.aura.subraces.raenmale.traits.naturallyinsightful">Naturally Insightful</link>
-								<link class="reference_subracialtrait" recordname="reference.racedata.aura.subraces.raenmale.traits.indomitablespirit">Indomitable Spirit</link>
+								<link class="reference_subracialtrait" recordname="reference.racedata.aura.subraces.raenmale.traits.unwaveringloyalty">Unwavering Loyalty</link>
 							</listlink>
 						</text>
 						<traits>
@@ -196,10 +196,10 @@
 								<name type="string">Naturally Insightful</name>
 								<text type="formattedtext"><p>You have proficiency in the Insight skill.</p></text>
 							</naturallyinsightful>
-							<indomitablespirit>
-								<name type="string">Indomitable Spirit</name>
-								<text type="formattedtext"><p>The legendary strength of will that Raen carry with them allows them to steel their resolve when it is tested. You have advantage on saving throws against being Frightened.</p></text>
-							</indomitablespirit>
+							<unwaveringloyalty>
+								<name type="string">Unwavering Loyalty</name>
+								<text type="formattedtext"><p>The legendary strength of will that Raen carry with them allows them to steel their resolve when it is tested. You have advantage on saving throws against being Charmed.</p></text>
+							</unwaveringloyalty>
 						</traits>
 					</raenmale>
 				</subraces>
@@ -233,7 +233,7 @@
 						<link class="reference_racialtrait" recordname="reference.racedata.elezen.traits.size">Size</link>
 						<link class="reference_racialtrait" recordname="reference.racedata.elezen.traits.speed">Speed</link>
 						<link class="reference_racialtrait" recordname="reference.racedata.elezen.traits.keensenses">Keen Senses</link>
-						<link class="reference_racialtrait" recordname="reference.racedata.elezen.traits.withpoiseandgrace">With Poise and Grace</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.elezen.traits.stalwartstoicism">Stalwart Stoicism</link>
 						<link class="reference_racialtrait" recordname="reference.racedata.elezen.traits.languages">Languages</link>
 						<link class="reference_racialtrait" recordname="reference.racedata.elezen.traits.subrace">Subraces</link>
 					</listlink>
@@ -263,10 +263,10 @@
 						<name type="string">Keen Senses</name>
 						<text type="formattedtext"><p>You have proficiency in the Perception skill.</p></text>
 					</keensenses>
-					<withpoiseandgrace>
-						<name type="string">With Poise and Grace</name>
-						<text type="formattedtext"><p>You have advantage on saving throws against being charmed and knocked prone, and standing up from prone costs you only 5 feet of movement, rather than half your speed.</p></text>
-					</withpoiseandgrace>
+					<stalwartstoicism>
+						<name type="string">Stalwart Stoicism</name>
+						<text type="formattedtext"><p>You have advantage on saving throws against being frightened and knocked prone, and standing up from prone costs you only 5 feet of movement, rather than half your speed.</p></text>
+					</stalwartstoicism>
 					<languages>
 						<name type="string">Languages</name>
 						<text type="formattedtext"><p>You can speak, read, and write Common and Elezen</p></text>
@@ -390,7 +390,7 @@
 					</speed>
 					<buildersblessing>
 						<name type="string">Builder's Blessing</name>
-						<text type="formattedtext"><p>You gain proficiency with a set of artisan's tools of your choice.</p></text>
+						<text type="formattedtext"><p>You gain proficiency with a set of artisan's tools, game set, or instrument of your choice.</p></text>
 					</buildersblessing>
 					<languages>
 						<name type="string">Languages</name>
@@ -483,7 +483,7 @@
 							</abilityscoreincrease>
 							<thirdeye>
 								<name type="string">Third Eye</name>
-								<text type="formattedtext"><p>Once per day, after making a Dexterity saving throw, or a skill check that utilizes spacial recognition in some way (like some Acrobatics or piloting checks), you may add 1d4 to the roll after seeing the result. You can't use this feature again until you finish a long rest.</p></text>
+								<text type="formattedtext"><p>Once per short or long rest, after making a Dexterity saving throw, or a skill check that utilizes spacial recognition in some way (like some Acrobatics or piloting checks), you may add 1d4 to the roll after seeing the result. You can't use this feature again until you finish a long rest.</p></text>
 							</thirdeye>
 						</traits>
 					</garlean>
